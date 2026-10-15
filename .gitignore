@@ -1,0 +1,19 @@
+# Temporary and system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local environment files
+.env
+.env.*
+
+# Uploaded user content
+/upload/*
+!/upload/.gitkeep
